@@ -1,2 +1,2 @@
 # BANK-BOOTCAMP-MICROSERVICES
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinpalma20&repo=bootcamp2021-microservice-customer)](https://github.com/kevinpalma20/bootcamp2021-microservice-customer)
