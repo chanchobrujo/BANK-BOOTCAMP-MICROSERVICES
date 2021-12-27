@@ -1,5 +1,5 @@
 # BANK-BOOTCAMP-MICROSERVICES
-## MICROSERVICES FOR CONFIGURATION FOR SERVER
+## MICROSERVICES FOR CONFIGURATION OF SERVER
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinpalma20&repo=bootcamp2021-server-eureka&theme=buefy&show_icons=true)](https://github.com/kevinpalma20/bootcamp2021-server-eureka)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinpalma20&repo=bootcamp2021-server-config&theme=buefy&show_icons=true)](https://github.com/kevinpalma20/bootcamp2021-server-config)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinpalma20&repo=bootcamp2021-server-gateway&theme=buefy&show_icons=true)](https://github.com/kevinpalma20/bootcamp2021-server-gateway)
