@@ -8,7 +8,7 @@
 <hr/>
 
 ## MICROSERVICES
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinpalma20&repo=bootcamp2021-microservice-account-deposit&theme=dark&show_icons=true)](https://github.com/kevinpalma20/bootcamp2021-microservice-account-deposit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinpalma20&repo=bootcamp2021-microservice-account-deposit&theme=vuetify&show_icons=true)](https://github.com/kevinpalma20/bootcamp2021-microservice-account-deposit)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinpalma20&repo=bootcamp2021-microservice-account-retire)](https://github.com/kevinpalma20/bootcamp2021-microservice-account-retire)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinpalma20&repo=bootcamp2021-microservice-create-account)](https://github.com/kevinpalma20/bootcamp2021-microservice-create-account)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinpalma20&repo=bootcamp2021-microservice-customer)](https://github.com/kevinpalma20/bootcamp2021-microservice-customer)
