@@ -40,4 +40,4 @@
 | `aura` ![aura][aura_repo] | `apprentice` ![apprentice][apprentice_repo] | `moltack` ![moltack][moltack_repo] |
 | [Add your theme][add-theme] | | |
 
-[default_repocard_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=default_repocard
+[default_repocard_repo]: https://github-readme-stats.vercel.app/api/pin/?username=kevinpalma20&repo=bootcamp2021-microservice-customer&cache_seconds=86400&theme=default_repocard
